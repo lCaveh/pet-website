@@ -1,0 +1,14 @@
+h1,h2 {
+  text-align: center;
+  color: red;
+  font-weight: bold;
+}
+ul {
+  text-decoration-style: solid;
+}
+p {
+  font-style: italic;
+}
+img {
+  width:100%;
+}
