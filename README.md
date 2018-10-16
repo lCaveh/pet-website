@@ -1,8 +1,8 @@
 # _My Pet Webpage_
 
-#### _Simple Webpage for Epicodus, 10.8.2018_
+#### _Simple Webpage for Epicodus, 10.16.2018_
 
-#### By _**James Le and Kaveh Saleminejad**_
+#### By _**Edin Filipovic and Kaveh Saleminejad**_
 
 ## Description
 
@@ -17,15 +17,17 @@ _A web page for my favorite cat and his toys_
 
 ## Support and contact details
 
-_Contact James Le - Jamesle206@gmail.com or Kaveh Saleminejad - Lcaveh@gmail.com._
+_Contact Edin Filipovic - edin.filipovic89@gmail.com or Kaveh Saleminejad - Lcaveh@gmail.com._
 
 ## Technologies Used
 
 _HTML_
 _CSS_
+_Javascript_
+_JQuery_
 
 ### License
 
 *This software is licensed under the MIT license.*
 
-Copyright (c) 2018 **_James Le, Kaveh Saleminejad_**
+Copyright (c) 2018 **_Edin Filipovic, Kaveh Saleminejad_**
