@@ -1,4 +1,4 @@
-html {
+body {
   background-color: lightblue;
 }
 h1,h2 {
@@ -13,5 +13,17 @@ p {
   font-style: italic;
 }
 img {
-  width:100%;
+  width:30%;
+}
+.imagecontainer {
+  display: block;
+  margin: 0 auto;
+}
+.darktheme{
+  background-color: black;
+  color: white;
+}
+.lighttheme{
+  background-color: white;
+  color: black;
 }
